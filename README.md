@@ -1,4 +1,4 @@
-# Serverless Notes Application
+#  Serverless Notes Application
 
 A cloud-native backend system for managing notes with time-based classification (past, present, and future). Built using AWS serverless services including Lambda, API Gateway, DynamoDB, and S3.
 
